@@ -1,0 +1,145 @@
+2024-03-19 09:19:23,259 [main] INFO ** Opencart Framework ** - ------------- Framework Execution Started -------------------
+2024-03-19 09:19:30,723 [main] INFO ** Opencart Framework ** - Browser launed with url
+2024-03-19 09:19:30,798 [main] INFO ** Opencart Framework ** - Object creation
+2024-03-19 09:19:31,566 [main] INFO ** Opencart Framework ** - on register page
+2024-03-19 09:19:32,481 [main] INFO ** Opencart Framework ** - account details entered
+2024-03-19 09:19:33,711 [main] INFO ** Opencart Framework ** - Browser closed
+2024-03-19 09:19:38,414 [main] INFO ** Opencart Framework ** - Browser launed with url
+2024-03-19 09:19:38,420 [main] INFO ** Opencart Framework ** - Object creation
+2024-03-19 09:19:39,295 [main] INFO ** Opencart Framework ** - on register page
+2024-03-19 09:19:40,390 [main] INFO ** Opencart Framework ** - account details entered
+2024-03-19 09:19:41,915 [main] INFO ** Opencart Framework ** - Browser closed
+2024-03-19 09:19:48,604 [main] INFO ** Opencart Framework ** - ------------- Framework Execution Ended ---------------------
+2024-03-19 09:21:21,724 [main] INFO ** Opencart Framework ** - ------------- Framework Execution Started -------------------
+2024-03-19 09:21:26,912 [main] INFO ** Opencart Framework ** - Browser launed with url
+2024-03-19 09:21:26,991 [main] INFO ** Opencart Framework ** - Object creation
+2024-03-19 09:21:27,798 [main] INFO ** Opencart Framework ** - on register page
+2024-03-19 09:21:28,677 [main] INFO ** Opencart Framework ** - account details entered
+2024-03-19 09:21:30,100 [main] INFO ** Opencart Framework ** - Browser closed
+2024-03-19 09:21:35,069 [main] INFO ** Opencart Framework ** - Browser launed with url
+2024-03-19 09:21:35,072 [main] INFO ** Opencart Framework ** - Object creation
+2024-03-19 09:21:35,930 [main] INFO ** Opencart Framework ** - on register page
+2024-03-19 09:21:36,985 [main] INFO ** Opencart Framework ** - account details entered
+2024-03-19 09:21:38,397 [main] INFO ** Opencart Framework ** - Browser closed
+2024-03-19 09:21:43,760 [main] INFO ** Opencart Framework ** - Browser launed with url
+2024-03-19 09:21:43,803 [main] INFO ** Opencart Framework ** - Object creation
+2024-03-19 09:21:44,434 [main] INFO ** Opencart Framework ** - on login page
+2024-03-19 09:21:44,913 [main] INFO ** Opencart Framework ** - login details entered
+2024-03-19 09:21:46,283 [main] INFO ** Opencart Framework ** - Browser closed
+2024-03-19 09:21:51,672 [main] INFO ** Opencart Framework ** - Browser launed with url
+2024-03-19 09:21:51,673 [main] INFO ** Opencart Framework ** - Object Creation
+2024-03-19 09:21:52,309 [main] INFO ** Opencart Framework ** - on login page
+2024-03-19 09:21:53,090 [main] INFO ** Opencart Framework ** - login details entered
+2024-03-19 09:21:54,408 [main] INFO ** Opencart Framework ** - Browser closed
+2024-03-19 09:21:54,410 [main] INFO ** Opencart Framework ** - ------------- Framework Execution Ended ---------------------
+2024-03-20 08:34:44,696 [main] INFO ** Opencart Framework ** - ------------- Framework Execution Started -------------------
+2024-03-20 08:34:55,800 [main] INFO ** Opencart Framework ** - Browser launed with url
+2024-03-20 08:34:56,849 [main] INFO ** Opencart Framework ** - Object Creation
+2024-03-20 08:34:57,458 [main] INFO ** Opencart Framework ** - on login page
+2024-03-20 08:34:58,156 [main] INFO ** Opencart Framework ** - login details entered
+2024-03-20 08:34:59,645 [main] INFO ** Opencart Framework ** - Browser closed
+2024-03-20 08:34:59,647 [main] INFO ** Opencart Framework ** - ------------- Framework Execution Ended ---------------------
+2024-03-20 08:40:24,301 [main] INFO ** Opencart Framework ** - ------------- Framework Execution Started -------------------
+2024-03-20 08:40:30,759 [main] INFO ** Opencart Framework ** - Browser launed with url
+2024-03-20 08:40:30,770 [main] INFO ** Opencart Framework ** - Object creation
+2024-03-20 08:40:32,033 [main] INFO ** Opencart Framework ** - Browser closed
+2024-03-20 08:40:32,040 [main] INFO ** Opencart Framework ** - ------------- Framework Execution Ended ---------------------
+2024-03-20 08:43:40,038 [main] INFO ** Opencart Framework ** - ------------- Framework Execution Started -------------------
+2024-03-20 08:43:46,946 [main] INFO ** Opencart Framework ** - Browser launed with url
+2024-03-20 08:43:49,157 [main] INFO ** Opencart Framework ** - on register page
+2024-03-20 08:43:50,093 [main] INFO ** Opencart Framework ** - account details entered
+2024-03-20 08:43:51,948 [main] INFO ** Opencart Framework ** - Browser closed
+2024-03-20 08:43:58,233 [main] INFO ** Opencart Framework ** - Browser launed with url
+2024-03-20 08:43:59,265 [main] INFO ** Opencart Framework ** - on register page
+2024-03-20 08:44:00,210 [main] INFO ** Opencart Framework ** - account details entered
+2024-03-20 08:44:01,808 [main] INFO ** Opencart Framework ** - Browser closed
+2024-03-20 08:44:09,927 [main] INFO ** Opencart Framework ** - Browser launed with url
+2024-03-20 08:44:10,705 [main] INFO ** Opencart Framework ** - on login page
+2024-03-20 08:44:11,307 [main] INFO ** Opencart Framework ** - login details entered
+2024-03-20 08:44:12,752 [main] INFO ** Opencart Framework ** - Browser closed
+2024-03-20 08:44:19,064 [main] INFO ** Opencart Framework ** - Browser launed with url
+2024-03-20 08:44:19,793 [main] INFO ** Opencart Framework ** - on login page
+2024-03-20 08:44:20,552 [main] INFO ** Opencart Framework ** - login details entered
+2024-03-20 08:44:21,990 [main] INFO ** Opencart Framework ** - Browser closed
+2024-03-20 08:44:21,991 [main] INFO ** Opencart Framework ** - ------------- Framework Execution Ended ---------------------
+2024-03-20 09:02:26,408 [main] INFO ** Opencart Framework ** - ------------- Framework Execution Started -------------------
+2024-03-20 09:02:34,066 [main] INFO ** Opencart Framework ** - Browser launed with url
+2024-03-20 09:02:35,724 [main] INFO ** Opencart Framework ** - on register page
+2024-03-20 09:02:36,972 [main] INFO ** Opencart Framework ** - Browser closed
+2024-03-20 09:02:36,973 [main] INFO ** Opencart Framework ** - ------------- Framework Execution Ended ---------------------
+2024-03-20 09:03:19,968 [main] INFO ** Opencart Framework ** - ------------- Framework Execution Started -------------------
+2024-03-20 09:03:25,579 [main] INFO ** Opencart Framework ** - Browser launed with url
+2024-03-20 09:03:26,982 [main] INFO ** Opencart Framework ** - on register page
+2024-03-20 09:03:27,882 [main] INFO ** Opencart Framework ** - account details entered
+2024-03-20 09:03:29,095 [main] INFO ** Opencart Framework ** - Browser closed
+2024-03-20 09:03:34,113 [main] INFO ** Opencart Framework ** - Browser launed with url
+2024-03-20 09:03:35,150 [main] INFO ** Opencart Framework ** - on register page
+2024-03-20 09:03:36,389 [main] INFO ** Opencart Framework ** - Browser closed
+2024-03-20 09:03:36,392 [main] INFO ** Opencart Framework ** - ------------- Framework Execution Ended ---------------------
+2024-03-20 09:04:21,453 [main] INFO ** Opencart Framework ** - ------------- Framework Execution Started -------------------
+2024-03-20 09:04:26,957 [main] INFO ** Opencart Framework ** - Browser launed with url
+2024-03-20 09:04:28,387 [main] INFO ** Opencart Framework ** - on register page
+2024-03-20 09:04:30,032 [main] INFO ** Opencart Framework ** - Browser closed
+2024-03-20 09:04:30,035 [main] INFO ** Opencart Framework ** - ------------- Framework Execution Ended ---------------------
+2024-03-20 09:07:45,954 [main] INFO ** Opencart Framework ** - ------------- Framework Execution Started -------------------
+2024-03-20 09:07:52,965 [main] INFO ** Opencart Framework ** - Browser launed with url
+2024-03-20 09:07:54,618 [main] INFO ** Opencart Framework ** - on register page
+2024-03-20 09:07:56,092 [main] INFO ** Opencart Framework ** - account details entered
+2024-03-20 09:07:57,265 [main] INFO ** Opencart Framework ** - Browser closed
+2024-03-20 09:07:57,265 [main] INFO ** Opencart Framework ** - ------------- Framework Execution Ended ---------------------
+2024-03-20 09:20:27,206 [main] INFO ** Opencart Framework ** - ------------- Framework Execution Started -------------------
+2024-03-20 09:20:35,755 [main] INFO ** Opencart Framework ** - Browser launed with url
+2024-03-20 09:20:38,157 [main] INFO ** Opencart Framework ** - Browser closed
+2024-03-20 09:20:38,162 [main] INFO ** Opencart Framework ** - ------------- Framework Execution Ended ---------------------
+2024-03-20 09:21:09,958 [main] INFO ** Opencart Framework ** - ------------- Framework Execution Started -------------------
+2024-03-20 09:21:15,752 [main] INFO ** Opencart Framework ** - Browser launed with url
+2024-03-20 09:21:17,793 [main] INFO ** Opencart Framework ** - Browser closed
+2024-03-20 09:21:17,796 [main] INFO ** Opencart Framework ** - ------------- Framework Execution Ended ---------------------
+2024-03-20 09:24:19,863 [main] INFO ** Opencart Framework ** - ------------- Framework Execution Started -------------------
+2024-03-20 09:24:25,774 [main] INFO ** Opencart Framework ** - Browser launed with url
+2024-03-20 09:24:27,633 [main] INFO ** Opencart Framework ** - Browser closed
+2024-03-20 09:24:27,635 [main] INFO ** Opencart Framework ** - ------------- Framework Execution Ended ---------------------
+2024-03-20 09:27:25,926 [main] INFO ** Opencart Framework ** - ------------- Framework Execution Started -------------------
+2024-03-20 09:27:31,892 [main] INFO ** Opencart Framework ** - Browser launed with url
+2024-03-20 09:27:34,107 [main] INFO ** Opencart Framework ** - Browser closed
+2024-03-20 09:27:34,112 [main] INFO ** Opencart Framework ** - ------------- Framework Execution Ended ---------------------
+2024-03-20 09:28:04,081 [main] INFO ** Opencart Framework ** - ------------- Framework Execution Started -------------------
+2024-03-20 09:28:09,240 [main] INFO ** Opencart Framework ** - Browser launed with url
+2024-03-20 09:28:10,899 [main] INFO ** Opencart Framework ** - Browser closed
+2024-03-20 09:28:10,902 [main] INFO ** Opencart Framework ** - ------------- Framework Execution Ended ---------------------
+2024-03-20 09:40:03,859 [main] INFO ** Opencart Framework ** - ------------- Framework Execution Started -------------------
+2024-03-20 09:40:03,901 [main] INFO ** Opencart Framework ** - ------------- Framework Execution Ended ---------------------
+2024-03-20 09:41:17,072 [main] INFO ** Opencart Framework ** - ------------- Framework Execution Started -------------------
+2024-03-20 09:41:24,101 [main] INFO ** Opencart Framework ** - Browser launed with url
+2024-03-20 09:41:25,464 [main] INFO ** Opencart Framework ** - Browser closed
+2024-03-20 09:41:30,900 [main] INFO ** Opencart Framework ** - Browser launed with url
+2024-03-20 09:41:32,008 [main] INFO ** Opencart Framework ** - Browser closed
+2024-03-20 09:41:37,328 [main] INFO ** Opencart Framework ** - Browser launed with url
+2024-03-20 09:41:38,307 [main] INFO ** Opencart Framework ** - Browser closed
+2024-03-20 09:41:43,455 [main] INFO ** Opencart Framework ** - Browser launed with url
+2024-03-20 09:41:44,974 [main] INFO ** Opencart Framework ** - Browser closed
+2024-03-20 09:41:50,602 [main] INFO ** Opencart Framework ** - Browser launed with url
+2024-03-20 09:41:52,115 [main] INFO ** Opencart Framework ** - Browser closed
+2024-03-20 09:41:52,119 [main] INFO ** Opencart Framework ** - ------------- Framework Execution Ended ---------------------
+2024-03-20 09:42:51,695 [main] INFO ** Opencart Framework ** - ------------- Framework Execution Started -------------------
+2024-03-20 09:42:57,626 [main] INFO ** Opencart Framework ** - Browser launed with url
+2024-03-20 09:42:58,317 [main] INFO ** Opencart Framework ** - on login page
+2024-03-20 09:42:58,909 [main] INFO ** Opencart Framework ** - login details entered
+2024-03-20 09:43:00,089 [main] INFO ** Opencart Framework ** - Browser closed
+2024-03-20 09:43:04,933 [main] INFO ** Opencart Framework ** - Browser launed with url
+2024-03-20 09:43:05,644 [main] INFO ** Opencart Framework ** - on login page
+2024-03-20 09:43:06,367 [main] INFO ** Opencart Framework ** - login details entered
+2024-03-20 09:43:07,822 [main] INFO ** Opencart Framework ** - Browser closed
+2024-03-20 09:43:13,439 [main] INFO ** Opencart Framework ** - Browser launed with url
+2024-03-20 09:43:14,143 [main] INFO ** Opencart Framework ** - on login page
+2024-03-20 09:43:14,842 [main] INFO ** Opencart Framework ** - login details entered
+2024-03-20 09:43:16,253 [main] INFO ** Opencart Framework ** - Browser closed
+2024-03-20 09:43:23,203 [main] INFO ** Opencart Framework ** - Browser launed with url
+2024-03-20 09:43:24,028 [main] INFO ** Opencart Framework ** - on login page
+2024-03-20 09:43:24,842 [main] INFO ** Opencart Framework ** - login details entered
+2024-03-20 09:43:26,196 [main] INFO ** Opencart Framework ** - Browser closed
+2024-03-20 09:43:31,992 [main] INFO ** Opencart Framework ** - Browser launed with url
+2024-03-20 09:43:32,754 [main] INFO ** Opencart Framework ** - on login page
+2024-03-20 09:43:33,496 [main] INFO ** Opencart Framework ** - login details entered
+2024-03-20 09:43:36,359 [main] INFO ** Opencart Framework ** - Browser closed
+2024-03-20 09:43:36,362 [main] INFO ** Opencart Framework ** - ------------- Framework Execution Ended ---------------------
